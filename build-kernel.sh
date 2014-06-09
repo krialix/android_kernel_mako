@@ -3,7 +3,7 @@
 # Build Script. Use bash to run this script, bash build_kernel from source directory
 
 # Kernel Version
-THOR_VER="Thor_1.0"
+THOR_VER="Thor_1.2"
 
 # Thor Build ID
 export LOCALVERSION="-"`echo $THOR_VER`
